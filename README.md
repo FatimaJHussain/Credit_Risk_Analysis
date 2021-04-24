@@ -9,7 +9,8 @@ We oversample the data using the RandomOverSampler and SMOTE algorithms, and und
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 
-Figure-1: Revised per School Summary without Grade 9 Scores ![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/revised+perschool1.png).
+Figure-1: Undersampling using ClusterCentroids resampler![Undersampling]
+(https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
 
 
 ## Summary
