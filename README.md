@@ -9,8 +9,7 @@ We oversample the data using the RandomOverSampler and SMOTE algorithms, and und
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 
-Figure-1: Undersampling using ClusterCentroids resampler![Undersampling]
-(https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
+Figure-1: Undersampling using ClusterCentroids resampler![Undersampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
 
 
 ## Summary
