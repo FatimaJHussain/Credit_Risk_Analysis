@@ -17,9 +17,15 @@ Figure-3: SMOTE Oversampling Balanced Accuracy Score![SMOTE Balanced](https://gi
 
 * Undersampling with Cluster Centroids Resampler
 Figure-4: Undersampling using ClusterCentroids Resampler![Undersampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
-Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTEENN.png).
 
+* Combination Sampling using SMOTEENN: Combination sampling using SMOTEENN have precison of 
+
+Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTEENN.png).
+### Random Forest
+* Balanced Random Forest Classifier:
 Figure-6: Balanced Random Forest Classifier![Random Forest](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/FOREST.png).
+
+* Ensemble AdaBoost Classifier: It has balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92 , as shown in the figure below:
 Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/ENSEMBEL.png).
 
 
