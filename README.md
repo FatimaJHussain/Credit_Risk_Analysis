@@ -8,10 +8,14 @@ We oversample the data using the RandomOverSampler and SMOTE algorithms, and und
 ## Results
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
-
+### Logistic Regression 
+* Random Over Sampler
 Figure-1: Naive Random Oversampling![Naive Random Oversampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/Randomoversampler.png).
+* SMOTE Oversampling
 Figure-2: SMOTE Oversampling Report![SMOTE Oversampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTE.png).
 Figure-3: SMOTE Oversampling Balanced Accuracy Score![SMOTE Balanced](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTE1.png).
+
+* Undersampling with Cluster Centroids Resampler
 Figure-4: Undersampling using ClusterCentroids Resampler![Undersampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
 Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTEENN.png).
 
