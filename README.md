@@ -40,4 +40,6 @@ Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/F
 We compare accuracy scores and precison, recall for two ML algorithms Randon Forest and Logistic Regression with varrying sampling techniques. 
 Considering Logistic Regression classifier, there is not much of the difference in precion of various sampling techniques but have different recall values. Logistic Regression with naive random oversampling has highest recall value of 0.74.
 
-By inspecting Random Forest, we can see balanced_accuracy_score of 0.769, precision 0.03 and recall of 0.66. For the AdaBoost Classifier, balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92.
+By inspecting Random Forest, we can see balanced_accuracy_score of 0.769, precision of 0.03 and recall of 0.66. For the AdaBoost Classifier, balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92. 
+
+By comparing these algorithms, we can recommend Ensemble AdaBoost Classifier having preciosn of 0.09 and highest recall of 0.92
