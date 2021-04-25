@@ -28,7 +28,7 @@ Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https:
 * Balanced Random Forest Classifier: It has balanced_accuracy_score of 0.769, precision 0.03 and recall of 0.66, as shown in the figure-6 below:
 
 Figure-6: Balanced Random Forest Classifier![Random Forest](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/FOREST.png).
-
+### Ensemble  AdaBoost Classifier
 * Ensemble AdaBoost Classifier: It has balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92 , as shown in the figure-7 below:
 
 Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/ENSEMBEL.png).
@@ -37,5 +37,7 @@ Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/F
 
 ## Summary
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+We compare accuracy scores and precison, recall for two ML algorithms Randon Forest and Logistic Regression with varrying sampling techniques. 
+Considering Logistic Regression classifier, there is not much of the difference in precion of various sampling techniques but have different recall values. Logistic Regression with naive random oversampling has highest recall value of 0.74.
+
+By inspecting Random Forest, we can see balanced_accuracy_score of 0.769, precision 0.03 and recall of 0.66. For the AdaBoost Classifier, balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92.
