@@ -16,7 +16,7 @@ Figure-4: Undersampling using ClusterCentroids Resampler![Undersampling](https:/
 Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTEENN.png).
 
 Figure-6: Balanced Random Forest Classifier![Random Forest](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/FOREST.png).
-Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/ENSEMBEL.png.png).
+Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/ENSEMBEL.png).
 
 
 
