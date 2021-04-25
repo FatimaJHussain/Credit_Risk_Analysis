@@ -6,8 +6,7 @@ We use various ML algorithms to find the Credit risk for the given dataset (redi
 We oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Afterwards, we use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. We will compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
 
 ## Results
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
+In the following line, we discuss the details for Logistic Regression and Random Forets models and prediction results.
 ### Logistic Regression 
 * Random Over SamplerIt has balanced_accuracy_score of 0.67, precison of 0.01 and recall of 0.74, as shown in figure-1 below.
 
