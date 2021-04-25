@@ -15,17 +15,20 @@ Figure-1: Naive Random Oversampling![Naive Random Oversampling](https://github.c
 Figure-2: SMOTE Oversampling Report![SMOTE Oversampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTE.png).
 Figure-3: SMOTE Oversampling Balanced Accuracy Score![SMOTE Balanced](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTE1.png).
 
-* Undersampling with Cluster Centroids Resampler
+* Undersampling with Cluster Centroids Resampler: It has balanced_accuracy_score of 0.544, precison of 0.01 and recall of 0.69, as shown in figure-4 below.
+
 Figure-4: Undersampling using ClusterCentroids Resampler![Undersampling](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/CLUSTER.png).
 
-* Combination Sampling using SMOTEENN: Combination sampling using SMOTEENN have precison of 
+* Combination Sampling using SMOTEENN: It has balanced_accuracy_score of 0.64, precison of 0.01 and recall of 0.71, as shown in figure-5 below.
 
 Figure-5: Combination (Over and Under) Sampling using SMOTEENN![SMOTEENN](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/SMOTEENN.png).
 ### Random Forest
-* Balanced Random Forest Classifier:
+* Balanced Random Forest Classifier: It has balanced_accuracy_score of 0.769, precision 0.03 and recall of 0.66, as shown in the figure-6 below:
+
 Figure-6: Balanced Random Forest Classifier![Random Forest](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/FOREST.png).
 
-* Ensemble AdaBoost Classifier: It has balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92 , as shown in the figure below:
+* Ensemble AdaBoost Classifier: It has balanced_accuracy_score of 0.93, precision 0.09 and recall of 0.92 , as shown in the figure-7 below:
+
 Figure-7: Ensemble AdaBoost Classifier![ Ensemble AdaBoost](https://github.com/FatimaJHussain/Credit_Risk_Analysis/blob/main/ENSEMBEL.png).
 
 
